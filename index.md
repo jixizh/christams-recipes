@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-is this thing on
+is this thing on?
