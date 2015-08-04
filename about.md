@@ -1,11 +1,6 @@
 ---
 layout: page
-title: About
+title: 要旨
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+诗词歌赋，名著佳作皆为民族文化之精髓，读懂，开心志；吟咏，怡情趣；贯通，气轩昂。    中华大地，人杰地灵，文采横溢之人，生生不息;登峰造极之篇，代代相传。本目录中所列皆上上之品，背咏为佳。
