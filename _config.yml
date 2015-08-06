@@ -8,4 +8,8 @@ baseurl: /jixizhgh # the subpath of your site, e.g. /blog/
 
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
+name: 回主页
+paginate: 10
+permalink: pretty
+highlighter: rouge
