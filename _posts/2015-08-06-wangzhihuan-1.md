@@ -22,4 +22,4 @@ categories: jekyll update
 更上一层楼。
 
 ---
-{{ page.excerpt}}
+<p>{{ page.excerpt}}</p>
