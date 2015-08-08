@@ -16,11 +16,10 @@ excerpt: "鹳雀楼：古名鹳鹊楼，因时有鹳鹊栖其上而得名，
 date:   2015-08-06
 categories: jekyll update
 --- 
-<h3> 
 白日依山尽，  
 黄河入海流。  
 欲穷千里目，  
 更上一层楼。
-</h3>
+
 ---
-<p>{{ page.excerpt}}</p>
+{{ page.excerpt}}
