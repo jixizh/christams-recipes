@@ -3,7 +3,10 @@ title: 历代诗词歌赋佳品
 
 description: > # this means to ignore newlines until "baseurl:"
   吟咏诗句，陶冶情操，本页列出历代诗词歌赋，旨在探求其精髓，吸收其养分。
+  
 baseurl: /jixizhgh # the subpath of your site, e.g. /blog/
+
+url: http://jixizh.github.io
 
 
 
@@ -13,3 +16,5 @@ name: 回主页
 paginate: 10
 permalink: pretty
 highlighter: rouge
+
+excerpt_separator: "<!-- more -->"
