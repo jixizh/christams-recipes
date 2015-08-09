@@ -22,8 +22,9 @@ categories: jekyll update
 更上一层楼。
 
 ---
+![guan1]({{ site.url }}/image/guan1.jpg)
+![guan]({{ site.url }}/image/guan.jpg)  
 {{ page.excerpt}}  
 
 
-![guan1]({{ site.url }}/image/guan1.jpg)
-![guan]({{ site.url }}/image/guan.jpg)
+
