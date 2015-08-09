@@ -450,4 +450,5 @@ pre {
 /**********
 Option below:
 ***********/
-.page-heading {font-size: 20px;} .post-list > li {margin-bottom: 0;}
+.page-heading {font-size: 20px;} .post-list > li {margin-bottom: 0;} #nav { margin: 6em auto 2em auto; float:left;}
+#contain { margin-left: 320px; border-left: 1px solid #d8d8d8; min-height: 10px; position: relative; min-width: 10px; z-index: 100;float:right;}
