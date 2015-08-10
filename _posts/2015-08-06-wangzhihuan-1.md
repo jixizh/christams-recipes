@@ -24,7 +24,13 @@ categories: jekyll update
 ---
 ![guan1]({{ site.url }}/image/guan1.jpg)
 ![guan]({{ site.url }}/image/guan.jpg)  
-{{ page.excerpt}}  
+<br>
+<audio controls preload="none">
+  <source src="{{ site.url }}/audio/wangzhihuan_guanquelou.m4a" type="audio/mpeg">
+</audio>  
+
+{{ page.excerpt}}   
+ 
 
 
 
