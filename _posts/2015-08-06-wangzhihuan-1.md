@@ -21,7 +21,7 @@ categories: jekyll update
 欲穷千里目，  
 更上一层楼。
 
----  
+  
 
 ![guan1]({{ site.url }}/image/guan1.jpg)
 ![guan]({{ site.url }}/image/guan.jpg)  
