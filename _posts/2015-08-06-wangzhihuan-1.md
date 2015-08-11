@@ -28,7 +28,7 @@ categories: jekyll update
 <audio controls preload="none">
   <source src="{{ site.url }}/audio/wangzhihuan_guanquelou.m4a" type="audio/mpeg">
 </audio>  
-<section>
+<section class="psize">
 {{ page.excerpt}}   
 </section>
 
